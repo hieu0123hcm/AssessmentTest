@@ -13,6 +13,9 @@ Step 3:
 Go to the CLIENT folder and open in terminal
 ======
 Step 4:
+Run "npm i" in the terminal (To install node_modules)
+======
+Step 5:
 Run "npm start" in the terminal
 
 Thank you!
